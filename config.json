@@ -1,0 +1,10 @@
+{
+"id":"server-224",
+  "listeners":[1080,1082,1083],
+  "writeCookie" : {
+    "name" : "cookie_1",
+    "value" : "cookie_101"
+  },
+  "url" : "/index.html /test /file",
+  "readCookie" : "testCookie"
+}
